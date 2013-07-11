@@ -1,0 +1,14 @@
+{
+  "name": "webgl-uniform",
+  "repo": "enricomarino/webgl-uniform",
+  "version": "0.1.0",
+  "description": "WebGL Uniform component",
+  "keywords": ["webgl", "uniform"],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT"
+}
